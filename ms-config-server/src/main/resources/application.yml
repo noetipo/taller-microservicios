@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/noetipo/DAD_2023_2.git
+          uri: https://github.com/noetipo/taller-microservicios.git
           searchPaths: config-data
           #username:
           #password:
